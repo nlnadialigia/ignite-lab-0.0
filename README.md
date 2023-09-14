@@ -42,12 +42,13 @@ Projeto desenvolvido no **Ignite Lab 0.0** oferecido pela [Rocketseat](https://w
 
 - Criação da base dos micro-serviços back-end e a 
 - Estruturação do front-end do projeto. 
-
-<br>
-
 - Setup do processo de autenticação usando o Auth0
 - Estrutura da base de dados com Prisma 
 - Fundamentos da API com GraphQL
+
+<p style="margin-left: 40px">
+  <img alt=" Funcionalidades" src=".github/f-backend.jpg" width=80%>
+</p>
 
 
 <br>
