@@ -19,10 +19,10 @@
 
 <h2  align="center">
 
-![Github last commit](https://img.shields.io/github/last-commit/nlnadialigia/ignite-lab-0.0?color=EF9595&style=plastic)
-![GitHub repo size](https://img.shields.io/github/repo-size/nlnadialigia/ignite-lab-0.0?color=EF9595&style=plastic)
-![Github top language](https://img.shields.io/github/languages/top/nlnadialigia/ignite-lab-0.0?color=EF9595)
-[![License](https://img.shields.io/github/license/nlnadialigia/ignite-lab-0.0?color=EF9595&logoColor=EF9595&style=plastic)](./LICENSE)
+![Github last commit](https://img.shields.io/github/last-commit/nlnadialigia/ignite-lab-0.0?color=4CB9E7&style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/nlnadialigia/ignite-lab-0.0?color=4CB9E7&style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/nlnadialigia/ignite-lab-0.0?style=plastic&color=4CB9E7)
+[![License](https://img.shields.io/github/license/nlnadialigia/ignite-lab-0.0?color=4CB9E7&logoColor=4CB9E7&style=plastic)](./LICENSE)
 
 </h2><br>
 
@@ -38,18 +38,17 @@ Projeto desenvolvido no **Ignite Lab 0.0** oferecido pela [Rocketseat](https://w
 
 ## 📎 Passo a passo
 
-📌  Criação da base dos serviços
+📌 Criação da base dos serviços
 
-- Criação da base dos micro-serviços back-end e a 
-- Estruturação do front-end do projeto. 
+- Criação da base dos micro-serviços back-end e a
+- Estruturação do front-end do projeto.
 - Setup do processo de autenticação usando o Auth0
-- Estrutura da base de dados com Prisma 
+- Estrutura da base de dados com Prisma
 - Fundamentos da API com GraphQL
 
 <p style="margin-left: 40px">
   <img alt=" Funcionalidades" src=".github/f-backend.jpg" width=80%>
 </p>
-
 
 <br>
 
@@ -130,7 +129,7 @@ $ npm run start
 
 ## 🛠 Tecnologias
 
-- [React](https://reactjs.org/) 
+- [React](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [NodeJS](https://nodejs.org/en/)
 - [NestJS](https://nestjs.com/)
@@ -153,6 +152,7 @@ $ npm run start
 **Utilitários**
 
 <!-- - Protótipo: **[Figma](https://www.figma.com/)** -->
+
 - Documentação API: **[Postman](https://www.postman.com/)**
 
 <br>
@@ -162,7 +162,7 @@ $ npm run start
 <img src="https://ik.imagekit.io/l7cwocexhc/me/card_nlnadialigia.png?updatedAt=1694126884257" width="300px;" alt="Picture"/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Linkedin](https://img.shields.io/badge/-Linkedin-732a7b?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nlnadialigia/)](https://www.linkedin.com/in/nlnadialigia)&nbsp;&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-732a7b?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/nl.nadia.ligia)&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/-Email-732a7b?style=plastic&logo=Gmail&logoColor=white&link=mailto:nlnadialigia@gmail.com)](mailto:nlnadialigia@gmail.com)&nbsp;&nbsp;
-[![Homepage](https://img.shields.io/badge/-Homepage-732a7b?style=plastic)](https://www.nlnadialigia.com)
 
 ---
