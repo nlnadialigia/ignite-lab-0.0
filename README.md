@@ -11,7 +11,7 @@
 <p align="center">
   <a href="#💻-sobre-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#📎-passo-a-passo">Passo a passo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#🎨-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <!-- <a href="#🎨-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; -->
   <a href="#🚀-como-executar-o-projeto">Executar o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#🛠-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-author">Author</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -52,11 +52,11 @@ Projeto desenvolvido no **Ignite Lab 0.0** oferecido pela [Rocketseat](https://w
 
 <br>
 
-## 🎨 Layout
+<!-- ## 🎨 Layout
 
 O layout da aplicação está disponível no [Figma]():
 
-<!-- <p align="center">
+<p align="center">
   <img alt=" Web" src=".github/layout.png">
 </p> -->
 
